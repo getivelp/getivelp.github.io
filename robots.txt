@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://getivelp.github.io/sitemap.html.gz
+Sitemap: https://getivelp.github.io/app/sitemap.html.gz
+Sitemap: https://getivelp.github.io/assets/sitemap.html.gz
+Sitemap: https://getivelp.github.io/css/sitemap.html.gz
+Sitemap: https://getivelp.github.io/includes/sitemap.html.gz
+Sitemap: https://getivelp.github.io/item/sitemap.html.gz
+Sitemap: https://getivelp.github.io/src/sitemap.html.gz
